@@ -2,6 +2,10 @@
 <h1 align="center">Hi 🙋 I'm Brijesh Soni</h1>
 <h3 align="center">A Passionate Data Analyst & Machine Learning from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Birjesh786&label=Profile%20views&color=0e75b6&style=flat" alt="Brijesh786" /> </p>
+
+
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    In addition to being passionate about Data Science, I am also interested in Machine Learning. Learning new data analytics techniques is one of my favorite things. My favorite topics are machine learning, big data, and natural language processing(NLP).
 <br>
@@ -14,7 +18,9 @@
 
 - 📫 How to connect me ****
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Birjesh786&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="center"> <img width="700px" src="https://blog.qatestlab.com/wp-content/uploads/2020/01/ML_example.gif"/> </p>
+
+
 
 
 <br>
