@@ -29,27 +29,24 @@
 <br>
 
 
-<h1 align="left"> 🤖 Machine Learning Projects</h1>
+<h1 align="left"> 🤖 Special Projects</h1>
 
-- 🔭 Recommdation System <a href="https://github.com/Birjesh786/MovieRecommenderApp">Movie Recommendation</a> <a href="https://github.com/Birjesh786/MovieRecommenderApp">Movie Recommendation</a>
+- 👉👉 Recommendation System <a href="https://github.com/Birjesh786/MovieRecommenderApp">Movie Recommendation</a>
 
-- 🌱 I’m Currently learning **Machine Learning, Deep Learning and PowerBI**
+- 👉👉 Prediction System <a href="https://github.com/Birjesh786/Car_Price_Predictor">Car Price Predictor</a> // <a href="https://github.com/Birjesh786/Laptop-Price-Predictor">Laptop Price Predictor</a> // <a href="https://github.com/Birjesh786/Titanic_Survivel-Predt_Analysis">Titanic Survivel Predictor</a>
 
-- 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
+- 👉👉 Data Analysis <a href="https://github.com/Birjesh786/IPL-Data-Analysis">IPL Analysis</a> // <a href="https://github.com/Birjesh786/World_Happiness_Data_Analysis_2021-2022">World Happiness Data_Analysis</a> // <a href="https://github.com/Birjesh786/OlympicDataAnalytics">Olympic Data Analysis</a> // <a href="https://github.com/Birjesh786/SpotifyDataAnalysis">Spotify Data Analysis</a>
 
-- 📫 How to connect me ****
+- 👉👉 PowerBI <a href="https://github.com/Birjesh786/Crypto-Currency_Dashboard">Crypto-Currency Dashboard</a> // <a href="https://github.com/Birjesh786/Car_Dashboard">Car Dashboard</a>
+
+
 
 <h1 style="color: #44AEFB">🎖️ Statistics</h1>
 <div align="center" style="display:block;">
 
    
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=vue_radius=20)
-   
-
-   
-   
-   
-   
+    
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
