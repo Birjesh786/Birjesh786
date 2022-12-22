@@ -30,16 +30,8 @@
 
 <h1 style="color: #44AEFB">📊 Statistics</h1>
 
-<div class="stats" align="center">
 
-![Brijesh786 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&theme=dark&show_icons=true)
 
 
 
