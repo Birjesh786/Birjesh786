@@ -32,7 +32,7 @@
 
 <img align="right" alt="Coding" width="400" src="">
 
-![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birjesh786&theme=nightowl_icons=true)
+![Bi=rijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birjesh786&theme=noctis_minimus_icons=true)
 
 
 
