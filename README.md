@@ -22,16 +22,22 @@
 
 
 
-
-<br>
-
-
 <h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
 <div align="center" style="display:block;">
     <img width="700px" alt="Programming Languages" src="https://futureacad.com/wp-content/uploads/2022/08/Asset-2-768x314.png"/> 
 </div>
 <br>
 
+
+<h1 align="left"> 🤖 Machine Learning Projects</h1>
+
+- 🔭 Recommdation System <a href="https://github.com/Birjesh786/MovieRecommenderApp">Movie Recommendation</a> <a href="https://github.com/Birjesh786/MovieRecommenderApp">Movie Recommendation</a>
+
+- 🌱 I’m Currently learning **Machine Learning, Deep Learning and PowerBI**
+
+- 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
+
+- 📫 How to connect me ****
 
 <h1 style="color: #44AEFB">🎖️ Statistics</h1>
 <div align="center" style="display:block;">
