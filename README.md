@@ -24,7 +24,7 @@
 
 
 <br>
-<!-- Languages and Tools -->
+
 
 <h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
 <div align="center" style="display:block;">
@@ -36,15 +36,14 @@
 <h1 style="color: #44AEFB">🎖️ Statistics</h1>
 <div align="center" style="display:block;">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brijesh786&theme=vue)](https://git.io/streak-stats)
+   
+![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=vue_radius=20)
    
 
-<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=vue" alt="Brijesh786" /></p>
    
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&theme=vue)
    
----
+   
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
