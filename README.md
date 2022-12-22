@@ -16,10 +16,9 @@
 
 - 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
 
-- 📫 How to connect me ****
+
 
 <p align="center"> <img width="700px" src="https://blog.qatestlab.com/wp-content/uploads/2020/01/ML_example.gif"/> </p>
-
 
 
 <h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
@@ -46,6 +45,9 @@
 
    
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=vue_radius=20)
+   
+   
+   
     
 <!-- Begin Footer -->
 <!-- Icons Resources -->
@@ -65,6 +67,9 @@
     </a>
 </div>
 <!-- End Footer -->
+   
+   
+
 
 
 
