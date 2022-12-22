@@ -30,10 +30,14 @@
 
 <h1 style="color: #44AEFB">📊 Statistics</h1>
 
-<img align="right" alt="Coding" width="400" src="">
+<div class="stats" align="center">
 
-![Bi=rijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birjesh786&theme=noctis_minimus_icons=true)
+![Brijesh786 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
 
 
 
