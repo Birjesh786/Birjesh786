@@ -26,12 +26,6 @@
 </div>
 <br>
 
-<!-- Statistics -->
-
-<h1 style="color: #44AEFB">📊 Statistics</h1>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&theme=dark&show_icons=true)
 
 
 
