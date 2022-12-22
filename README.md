@@ -28,9 +28,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Brijesh786&theme=vue)](https://git.io/streak-stats) 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=tokyonight" alt="Brijesh786" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=vue" alt="Brijesh786" /></p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&theme=vue)
 
 
 
