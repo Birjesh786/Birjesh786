@@ -20,11 +20,20 @@
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
 <div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YZlOvqVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9ipq87s38smpps45m77k.png"/> 
+    <img width="600px" alt="Programming Languages" src="https://futureacad.com/wp-content/uploads/2022/08/Asset-2-768x314.png"/> 
 </div>
-<br>  
+<br>
+
+<!-- Statistics -->
+
+<h1 style="color: #44AEFB">📊 Statistics</h1>
+
+<img align="right" alt="Coding" width="400" src="">
+
+![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birjesh786&theme=nightowl_icons=true)
+
 
 
 
