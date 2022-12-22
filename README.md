@@ -26,16 +26,37 @@
 </div>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brijesh786&theme=vue)](https://git.io/streak-stats) 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=vue" alt="Brijesh786" /></p>
+<h1 style="color: #44AEFB">🎖️ Statistics</h1>
+<div align="center" style="display:block;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&theme=vue)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Brijesh786&theme=vue)](https://git.io/streak-stats)
+   
 
-
-
-
-
+<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=vue" alt="Brijesh786" /></p>
+   
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&theme=vue)
+   
+---
+<!-- Begin Footer -->
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.linkedin.com/in/brijeshsoni007/" target="_blank">
+        <img  style="margin:0 9px 9px 0;" src="https://www.freeiconspng.com/uploads/linkedin-icon-png-transparent-images--pictures--becuo-4.png" width="50" alt="Linkedin Icon Png Transparent Images & Pictures Becuo"/>
+    </a>
+    <a href="https://www.facebook.com/brijesh.soni786" target="_blank">
+        <img style="margin:0 9px 9px 0;" src="https://www.freeiconspng.com/uploads/facebook-icon-related-keywords--suggestions--facebook-icon-long-tail--23.png" width="50" alt="Blue facebook egg logo"/>
+    </a>
+    <a href="xyz.com" target="_blank">
+        <img style="margin:0 9px 9px 0;" src="https://www.freeiconspng.com/uploads/website-icon-5.png" width="50" alt="Symbol Website Icon" alt="website" width="30px"/>
+    </a>
+    <a href="brijeshsoni121272@gmail.com" target="_blank">
+        <img style="margin:0 9px 9px 0;" src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" width="50" alt="Gmail Icon Svg"/>
+    </a>
+</div>
+<!-- End Footer -->
 
 
 
