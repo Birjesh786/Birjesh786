@@ -13,7 +13,7 @@
 - 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
 
 - 📫 How to connect me ****
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1024/1*nHfayfdmxAApbg84iMrJqQ.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Birjesh786&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
@@ -22,15 +22,13 @@
 
 <h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
 <div align="center" style="display:block;">
-    <img width="600px" alt="Programming Languages" src="https://futureacad.com/wp-content/uploads/2022/08/Asset-2-768x314.png"/> 
+    <img width="700px" alt="Programming Languages" src="https://futureacad.com/wp-content/uploads/2022/08/Asset-2-768x314.png"/> 
 </div>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Brijesh786&theme=vue)](https://git.io/streak-stats) 
 
-![Brijesh786 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&theme=dark&show_icons=true)
-
-
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brijesh786&show_icons=true&locale=en&theme=tokyonight" alt="Brijesh786" /></p>
 
 
 
