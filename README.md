@@ -34,7 +34,7 @@
 
 - 👉👉 Prediction System <a href="https://github.com/Birjesh786/Car_Price_Predictor">Car Price Predictor</a> // <a href="https://github.com/Birjesh786/Laptop-Price-Predictor">Laptop Price Predictor</a> // <a href="https://github.com/Birjesh786/Titanic_Survivel-Predt_Analysis">Titanic Survivel Predictor</a>
 
-- 👉👉 Data Analysis <a href="https://github.com/Birjesh786/IPL-Data-Analysis">IPL Analysis</a> // <a href="https://github.com/Birjesh786/World_Happiness_Data_Analysis_2021-2022">World Happiness Data_Analysis</a> // <a href="https://github.com/Birjesh786/OlympicDataAnalytics">Olympic Data Analysis</a> // <a href="https://github.com/Birjesh786/SpotifyDataAnalysis">Spotify Data Analysis</a>
+- 👉👉 Data Analysis <a href="https://github.com/Birjesh786/IPL-Data-Analysis">IPL Analysis</a> // <a href="https://github.com/Birjesh786/World_Happiness_Data_Analysis_2021-2022">World Happiness Data_Analysis</a> //<a href="https://github.com/Birjesh786/SpotifyDataAnalysis">Spotify Data Analysis</a>
 
 - 👉👉 PowerBI <a href="https://github.com/Birjesh786/Crypto-Currency_Dashboard">Crypto-Currency Dashboard</a> // <a href="https://github.com/Birjesh786/Car_Dashboard">Car Dashboard</a>
 
