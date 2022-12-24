@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
 
+- 🔗 Connect me <a href="https://birjesh786-digital-resume-app-xqwkda.streamlit.app/">Brijesh Soni</a>
+
 
 
 <p align="center"> <img width="700px" src="https://blog.qatestlab.com/wp-content/uploads/2020/01/ML_example.gif"/> </p>
