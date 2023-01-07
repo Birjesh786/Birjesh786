@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PowerBI**, **Tableau**, **Excel365**, **Machine Learning**
 
-- 🔗 Connect me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshsoni007/) [![Instagram](https://img.shields.io/badge/website-%231877F2.svg?logo=website&logoColor=white)](https://birjesh786-digital-resume-app-xqwkda.streamlit.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/brijesh.soni786) 
+- 🔗 Connect me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshsoni007/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/brijesh.soni786) 
 
 
 
