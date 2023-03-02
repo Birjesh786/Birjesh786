@@ -44,7 +44,11 @@
 ## 🎖️ Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh786&count_private=true&theme=vue_radius=20)
-   
+
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Brijesh786)
+
+
    
    
     
