@@ -7,7 +7,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   In addition to being passionate about Data Science, I am also interested in Machine Learning. Learning new data analytics techniques is one of my favorite things. My favorite topics are machine learning, big data, and natural language processing(NLP).
+   I have a strong interest in Machine Learning, alongside my passion for Data Science. Exploring novel techniques for data analytics is something that excites me greatly. Particularly, I am drawn towards Machine Learning, Big Data, and Natural Language Processing (NLP), which are my preferred areas of study.
 <br>
 
 - 🔭 I’m Currently working on **All-in-one Price Predictor ML App**
