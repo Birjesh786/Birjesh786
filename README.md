@@ -1,4 +1,4 @@
-![MasterHead](https://adatis.co.uk/wp-content/uploads/ML-vs-DL.gif)
+![MasterHead](https://1.bp.blogspot.com/-Cehw4NbX2L8/X1-DJeQgtmI/AAAAAAAAKeE/fA55q9EXsgQLU0trbgX_vJkiFMwR927yQCLcBGAsYHQ/s853/final.gif)
 <h1 align="center">Hi 🙋 I'm Brijesh Soni</h1>
 <h3 align="center">A Passionate Data Analyst & Machine Learning from India</h3>
 
@@ -20,7 +20,7 @@
 
 
 
-<p align="center"> <img width="700px" src="https://blog.qatestlab.com/wp-content/uploads/2020/01/ML_example.gif"/> </p>
+<p align="center"> <img width="700px" src="https://miro.medium.com/v2/resize:fit:3840/1*5K-1CSOB2mb5Jn2L8K3f9Q.gif"/> </p>
 
 
 # 💻 Tech Stack:
