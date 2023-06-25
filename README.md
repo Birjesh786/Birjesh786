@@ -1,4 +1,4 @@
-![MasterHead](https://editor.analyticsvidhya.com/uploads/17847clicdata.gif)
+![MasterHead](https://adatis.co.uk/wp-content/uploads/ML-vs-DL.gif)
 <h1 align="center">Hi 🙋 I'm Brijesh Soni</h1>
 <h3 align="center">A Passionate Data Analyst & Machine Learning from India</h3>
 
@@ -7,7 +7,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   I have a strong interest in Machine Learning, alongside my passion for Data Science. Exploring novel techniques for data analytics is something that excites me greatly. Particularly, I am drawn towards Machine Learning, Big Data, and Natural Language Processing (NLP), which are my preferred areas of study.
+   I have a strong interest in Machine Learning, alongside my passion for Data Science. Exploring novel techniques for data analytics is something that excites me greatly. Particularly, I am drawn toward Machine Learning, Big Data, and Natural Language Processing (NLP), which are my preferred areas of study.
 <br>
 
 - 🔭 I’m Currently working on **All-in-one Price Predictor ML App**
