@@ -39,7 +39,6 @@
 
 # 🔨 Tool's + Frameworks + Language's:
 
-<br/>
 <center>
 <table>
 <tbody align="center">
@@ -150,7 +149,6 @@
 
 </tbody>
 </table>
-<br> <br>
 
 <br>
 
@@ -193,8 +191,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<div align="center">
-  <h2>## 🎖️ Stats & Avalibity on Github:</h2>
+<div align="left">
+  <h2>🎖️ Stats & Avalibity on Github</h2>
 
 ![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/Brijesh786">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&layout=compact&theme=dark)](https://github.com/Brijesh786)</a>
 
