@@ -154,7 +154,7 @@
 
 <br>
 
-## 🤖 Special Projects:
+# 🤖 Special Projects:
 
 **1. Machine Learning**
 
@@ -182,7 +182,7 @@
 
 
 
-## 🖊️ Latest Blog Posts
+# 🖊️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Feature Engineering 101](https://medium.com/@brijesh_soni/the-world-of-feature-engineering-101-46c56d95d814)
@@ -194,7 +194,7 @@
 
 
 <div align="center">
-  <h2>## 🎖️ Stats & Avalibity on Github:</h2>
+  <h2>🎖️ Stats & Avalibity on Github:</h2>
 
 ![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=Brijesh786&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/Brijesh786">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh786&layout=compact&theme=dark)](https://github.com/Brijesh786)</a>
 
@@ -205,7 +205,7 @@
 <!-- Icons Resources -->
 
    
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
