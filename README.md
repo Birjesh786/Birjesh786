@@ -8,7 +8,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   I have a strong interest in 💡 Machine Learning and Deep Learning, alongside my passion for Data Science. Exploring novel techniques for data analytics is something that excites me greatly. Particularly, I am drawn toward Machine Learning, Big Data, and Natural Language Processing (NLP), which are my preferred areas of study.
+   Driven by a deep interest in *Large Language Models (LLMs)*, Natural Language Processing (NLP), and their intersection with Data Science. I am dedicated to exploring advanced techniques that leverage LLMs and NLP for comprehensive data analytics and transformative insights.
 <br>
 
 - 🔭 I’m Currently working on **Data Annotation Application**
