@@ -1,7 +1,7 @@
 <p align="center"> <img width="1500px" src="https://1.bp.blogspot.com/-Cehw4NbX2L8/X1-DJeQgtmI/AAAAAAAAKeE/fA55q9EXsgQLU0trbgX_vJkiFMwR927yQCLcBGAsYHQ/s853/final.gif"/> </p>
 
 <h1 align="center"> नमस्कार 🙋 I'm Brijesh Soni</h1>
-<h3 align="center">🤖 Deep Learning Researcher from India</h3>
+<h3 align="center">🤖 NLP/LLM Architect from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Birjesh786&label=Profile%20views&color=0e75b6&style=flat" alt="Brijesh786" /> </p>
 
