@@ -124,7 +124,7 @@ Fintech Analyst and AI Product Builder operating at the intersection of **Credit
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.linkedin.com/company/bodhidharman/" target="_blank">
-    <img src="https://img.shields.io/badge/Venture-Bodhidharman-009E9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bodhidharman" />
+    <img src="https://img.shields.io/badge/freelance-Bodhidharman-009E9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bodhidharman" />
   </a>
   <a href="mailto:hire.brijesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-hire.brijesh%40gmail.com-009E9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
