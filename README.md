@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Live%20Platform-Decoded%20Deals-00E5E0?style=for-the-badge&logo=vercel&logoColor=071120" alt="Decoded Deals" />
   </a>
   <a href="https://www.linkedin.com/company/bodhidharman/" target="_blank">
-    <img src="https://img.shields.io/badge/Venture-Bodhidharman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bodhidharman" />
+    <img src="https://img.shields.io/badge/freelance-Bodhidharman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bodhidharman" />
   </a>
   <a href="https://www.linkedin.com/in/brijesh007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-009E9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
